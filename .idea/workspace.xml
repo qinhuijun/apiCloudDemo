@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="921a39f4-744c-4fc0-963d-2c18ed7e2b6b" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/myApp/html/citySelect_frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/html/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myApp/html/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myApp/widget/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myApp/widget/css/api.css" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/css/api.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myApp/widget/html/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/html/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myApp/widget/icon/icon150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/icon/icon150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myApp/widget/image/loading_more.gif" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/image/loading_more.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myApp/widget/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myApp/widget/launch/launch1080x1920.png" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/launch/launch1080x1920.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myApp/widget/script/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/script/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/html/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/html/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webStorm-APICloud/wifisync_tools/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/webStorm-APICloud/wifisync_tools/error.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webStorm-APICloud/wifisync_tools/output.log" beforeDir="false" afterPath="$PROJECT_DIR$/webStorm-APICloud/wifisync_tools/output.log" afterDir="false" />
     </list>
@@ -29,21 +28,21 @@
     <session id="958574100">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="3" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.4" value="6" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="config_info" value="1" />
           <entry key="gif" value="1" />
-          <entry key="html" value="5" />
+          <entry key="html" value="8" />
           <entry key="js" value="1" />
           <entry key="log" value="1" />
           <entry key="md" value="2" />
@@ -54,7 +53,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="5" />
+          <entry key="HTML" value="8" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="7" />
@@ -63,25 +62,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="76" />
+          <entry key="html" value="872" />
           <entry key="txt" value="3" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="76" />
+          <entry key="HTML" value="872" />
           <entry key="PLAIN_TEXT" value="3" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myApp/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+            <state relative-caret-position="300">
+              <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -89,17 +91,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myApp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2250">
-              <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+            <state relative-caret-position="566">
+              <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myApp/script/api.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="494" column="6" lean-forward="true" selection-start-line="494" selection-start-column="6" selection-end-line="494" selection-end-column="6" />
+            <state relative-caret-position="4890">
+              <caret line="166" column="9" selection-start-line="166" selection-start-column="9" selection-end-line="166" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -110,8 +112,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myApp/html/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            <state relative-caret-position="452">
+              <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myApp/html/citySelect_frame.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myApp/html/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myApp/html/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -132,11 +161,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test/index.html" />
-        <option value="$PROJECT_DIR$/myApp/config.xml" />
-        <option value="$PROJECT_DIR$/myApp/index.html" />
         <option value="$PROJECT_DIR$/myApp/widget/html/main.html" />
-        <option value="$PROJECT_DIR$/myApp/html/main.html" />
         <option value="$PROJECT_DIR$/myApp/script/api.js" />
+        <option value="$PROJECT_DIR$/myApp/html/register.html" />
+        <option value="$PROJECT_DIR$/myApp/html/login.html" />
+        <option value="$PROJECT_DIR$/myApp/html/citySelect_frame.html" />
+        <option value="$PROJECT_DIR$/myApp/config.xml" />
+        <option value="$PROJECT_DIR$/myApp/html/main.html" />
+        <option value="$PROJECT_DIR$/myApp/index.html" />
       </list>
     </option>
   </component>
@@ -152,10 +184,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="27" />
-    <option name="width" value="1400" />
-    <option name="height" value="974" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="770" />
+    <option name="width" value="1152" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -163,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,13 +212,12 @@
               <item name="WebstormProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebstormProjects" type="462c0819:PsiDirectoryNode" />
               <item name="myApp" type="462c0819:PsiDirectoryNode" />
-              <item name="script" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,15 +233,16 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="diff.base" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\WebstormProjects" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\WebstormProjects\myApp" />
       <recent name="C:\Users\Administrator\WebstormProjects\myApp\widget" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\myApp\html" />
+      <recent name="C:\Users\Administrator\WebstormProjects" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -244,7 +277,10 @@
       <workItem from="1550802247097" duration="1161000" />
       <workItem from="1550803742272" duration="1187000" />
       <workItem from="1550804956494" duration="13000" />
-      <workItem from="1550806668903" duration="567000" />
+      <workItem from="1550806668903" duration="885000" />
+      <workItem from="1550807996092" duration="71000" />
+      <workItem from="1550815983514" duration="1421000" />
+      <workItem from="1550817514434" duration="5544000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1550740781017</created>
@@ -278,7 +314,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9000000" />
+    <option name="totallyTimeSpent" value="16354000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -290,15 +326,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="388" y="78" width="1400" height="974" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31277534" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.170706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3275488" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1637744" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -413,34 +449,55 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/config.xml">
+    <entry file="file://$PROJECT_DIR$/myApp/script/api.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        <state relative-caret-position="4890">
+          <caret line="166" column="9" selection-start-line="166" selection-start-column="9" selection-end-line="166" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/index.html">
+    <entry file="file://$PROJECT_DIR$/myApp/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2250">
-          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+        <state relative-caret-position="360">
+          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/html/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/html/citySelect_frame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myApp/html/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        <state relative-caret-position="452">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/script/api.js">
+    <entry file="file://$PROJECT_DIR$/myApp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="494" column="6" lean-forward="true" selection-start-line="494" selection-start-column="6" selection-end-line="494" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="566">
+          <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
         </state>
       </provider>
     </entry>
