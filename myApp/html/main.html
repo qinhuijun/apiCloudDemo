@@ -1,20 +1,23 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0"/>
-    <meta name="format-detection" content="telephone=no,email=no,date=no,address=no">
-    <title>Hello APP</title>
-    <link rel="stylesheet" type="text/css" href="../css/api.css" />
+	<meta charset="utf-8">
+	<meta name="viewport"
+	      content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0"/>
+	<meta name="format-detection" content="telephone=no,email=no,date=no,address=no">
+	<title>Hello APP</title>
+	<link rel="stylesheet" type="text/css" href="../css/api.css"/>
 	<style>
-		#con{
+		#con {
 			margin: 10px;
-			font-size: 24px; 
+			font-size: 24px;
 		}
-		ul{
+
+		ul {
 			margin-bottom: 10px;
 		}
-		ul li{ 
+
+		ul li {
 			margin: 5px 10px;
 			padding: 5px;
 			color: #000;
@@ -23,12 +26,14 @@
 	</style>
 </head>
 <body>
-    <label id="con">Hello APP</label>
-	<div id='sys-info'></div>
+<label id="con">Hello APP</label>
+<div id='sys-info'></div>
 </body>
 <script type="text/javascript" src="../script/api.js"></script>
 <script type="text/javascript">
-    apiready = function(){
+	apiready = function () {
+		var appId = api.appId;
+		var appName = api.appName;
 		var ver = api.version;
 		var sType = api.systemType;
 		var sVer = api.systemVersion;
@@ -44,6 +49,8 @@
 		var frameHeight = api.frameHeight || '';
 
 		var str = '<ul>';
+		str += '<li>APPID: ' + appId + '</li>';
+		str += '<li>APP名字: ' + appName + '</li>';
 		str += '<li>引擎版本信息: ' + ver + '</li>';
 		str += '<li>系统类型: ' + sType + '</li>';
 		str += '<li>系统版本: ' + sVer + '</li>';
@@ -61,6 +68,6 @@
 
 		$api.byId('sys-info').innerHTML = str;
 
-    };
+	};
 </script>
 </html>

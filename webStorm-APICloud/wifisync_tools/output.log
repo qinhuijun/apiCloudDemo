@@ -1,6 +1,12 @@
 [WebSocket server Success start]port=10915
 [action=workspace]path = C:\Users\Administrator\WebstormProjects
 [action=sync]appid = A6005243652440
+Error:没有手机连接到WiFi同步服务.
+请先到apploader或自定义loader中配置WiFi同步参数。
+[action=workspace]path = C:\Users\Administrator\WebstormProjects
+[action=review]path = C:\Users\Administrator\WebstormProjects\myApp
+[action=workspace]path = C:\Users\Administrator\WebstormProjects
+[action=sync]appid = A6005243652440
 absolutePath = C:\Users\Administrator\WebstormProjects\myApp\config.xml
 relativePath = \myApp\config.xml
 absolutePath = C:\Users\Administrator\WebstormProjects\myApp\css\api.css
@@ -17,5 +23,25 @@ absolutePath = C:\Users\Administrator\WebstormProjects\myApp\launch\launch1080x1
 relativePath = \myApp\launch\launch1080x1920.png
 absolutePath = C:\Users\Administrator\WebstormProjects\myApp\script\api.js
 relativePath = \myApp\script\api.js
- 02-22 09:23:37.456 I/app3c   (2): Hello APICloud at index.html : 62
+ 02-22 11:02:39.824 I/app3c   (2): Hello APICloud at index.html : 62
+[WiFi log] Hello APICloud at index.html : 62
+[action=workspace]path = C:\Users\Administrator\WebstormProjects
+[action=sync]appid = A6005243652440
+absolutePath = C:\Users\Administrator\WebstormProjects\myApp\config.xml
+relativePath = \myApp\config.xml
+absolutePath = C:\Users\Administrator\WebstormProjects\myApp\css\api.css
+relativePath = \myApp\css\api.css
+absolutePath = C:\Users\Administrator\WebstormProjects\myApp\html\main.html
+relativePath = \myApp\html\main.html
+absolutePath = C:\Users\Administrator\WebstormProjects\myApp\icon\icon150x150.png
+relativePath = \myApp\icon\icon150x150.png
+absolutePath = C:\Users\Administrator\WebstormProjects\myApp\image\loading_more.gif
+relativePath = \myApp\image\loading_more.gif
+absolutePath = C:\Users\Administrator\WebstormProjects\myApp\index.html
+relativePath = \myApp\index.html
+absolutePath = C:\Users\Administrator\WebstormProjects\myApp\launch\launch1080x1920.png
+relativePath = \myApp\launch\launch1080x1920.png
+absolutePath = C:\Users\Administrator\WebstormProjects\myApp\script\api.js
+relativePath = \myApp\script\api.js
+ 02-22 11:06:23.409 I/app3c   (2): Hello APICloud at index.html : 62
 [WiFi log] Hello APICloud at index.html : 62
